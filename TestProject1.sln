@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenMRS", "OpenMRS\OpenMRS.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetsK", "LetsK\LetsK.csproj", "{A53C7DDD-3C48-493A-9D25-A7B1357CF5B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoDaddy", "GoDaddy\GoDaddy.csproj", "{CA860048-4A9D-4D46-8C42-239869603427}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{A53C7DDD-3C48-493A-9D25-A7B1357CF5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A53C7DDD-3C48-493A-9D25-A7B1357CF5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A53C7DDD-3C48-493A-9D25-A7B1357CF5B5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CA860048-4A9D-4D46-8C42-239869603427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA860048-4A9D-4D46-8C42-239869603427}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA860048-4A9D-4D46-8C42-239869603427}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA860048-4A9D-4D46-8C42-239869603427}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
